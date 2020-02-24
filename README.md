@@ -5,6 +5,7 @@
 - Connects with Foursquare API
 - Implements `LocationsViewController`
 - Placeholders for `PhotoMapViewController` and `FullImageViewController`
+
 ![Image](http://i.imgur.com/WIwqNtn.gif)
 
 
